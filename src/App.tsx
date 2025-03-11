@@ -55,7 +55,7 @@ function App() {
               className="w-48 h-48 mx-auto relative"
             >
               <img
-                src="/profile.jpeg"
+                src="/launchdrive/profile.jpeg"
                 alt="Profile"
                 className="rounded-full w-full h-full object-cover border-4 border-white shadow-2xl"
               />
