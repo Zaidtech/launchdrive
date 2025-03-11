@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'framer-motion';
 import { Rocket, Lightbulb, Brain, ChevronDown } from 'lucide-react';
 import { InlineWidget } from 'react-calendly';
