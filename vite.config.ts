@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/repositoryname/', // Replace with your repository name
+  base: '/launchdrive/',
 });
